@@ -1,3 +1,5 @@
 .list{
-    outline: 1px solid red;
+    list-style: none;
+    display: flex;
+    gap: 45px;
 }

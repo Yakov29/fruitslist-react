@@ -1,0 +1,28 @@
+.item{
+    box-shadow: 3px 3px 3px 3px gray;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.fruit__name{
+    font-size: 50px;
+}
+
+.fruit__photo{
+    width: 200px;
+}
+
+
+.fruit__photo{
+    border-radius: 10px;
+    outline: 2px solid gray;
+}
+
+
+.fruit__price{
+    font-style: italic;
+    font-weight: 900;
+    font-size: 20px;
+}
