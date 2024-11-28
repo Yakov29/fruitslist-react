@@ -21,6 +21,11 @@ const fruits = [
       "https://th.bing.com/th/id/OIP.DzzBtp9wRuY1VocmOurZ7gHaJE?w=1903&h=2331&rs=1&pid=ImgDetMain",
     price: 10,
   },
+  {
+    name:"Kivi",
+    photo: "https://www.lovemysalad.com/sites/default/files/15433078_xxl1.jpg",
+    price: "100"
+  }
 ];
 
 function App() {
