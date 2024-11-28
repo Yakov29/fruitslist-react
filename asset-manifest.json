@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fruitslist-react/static/css/main.edada42b.css",
+    "main.js": "/fruitslist-react/static/js/main.dd573415.js",
+    "index.html": "/fruitslist-react/index.html",
+    "main.edada42b.css.map": "/fruitslist-react/static/css/main.edada42b.css.map",
+    "main.dd573415.js.map": "/fruitslist-react/static/js/main.dd573415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edada42b.css",
+    "static/js/main.dd573415.js"
+  ]
+}
