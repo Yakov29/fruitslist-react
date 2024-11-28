@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fruitslist-react/static/css/main.edada42b.css",
-    "main.js": "/fruitslist-react/static/js/main.dd573415.js",
+    "main.js": "/fruitslist-react/static/js/main.1fb8e94b.js",
     "index.html": "/fruitslist-react/index.html",
     "main.edada42b.css.map": "/fruitslist-react/static/css/main.edada42b.css.map",
-    "main.dd573415.js.map": "/fruitslist-react/static/js/main.dd573415.js.map"
+    "main.1fb8e94b.js.map": "/fruitslist-react/static/js/main.1fb8e94b.js.map"
   },
   "entrypoints": [
     "static/css/main.edada42b.css",
-    "static/js/main.dd573415.js"
+    "static/js/main.1fb8e94b.js"
   ]
 }
